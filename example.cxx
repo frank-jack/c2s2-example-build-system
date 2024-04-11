@@ -1,6 +1,7 @@
 // An example program that computes certain mathematical functions
 #include <iostream>
-#include <cstring>
+#include <string>
+#include <string>
 #include "ExampleMath.h"
 
 int main(int argc, char *argv[])
